@@ -1,0 +1,10 @@
+.language-control{display:flex;align-items:center;gap:8px;color:#f0e4cd;font-size:12px;flex-shrink:0}
+.language-control span{white-space:nowrap}.language-control select{background:#263546;color:#fff;border:1px solid #74818e;border-radius:6px;padding:7px;max-width:165px;font:inherit;cursor:pointer}
+.translation-note{margin:0;padding:10px 24px;background:#efe4ce;color:#443619;border-bottom:1px solid #c9b891;font-size:13px;text-align:center}
+.translation-note[hidden]{display:none}
+html[lang=ja] body{font-family:"Yu Gothic","Meiryo",sans-serif;line-height:1.85}
+html[lang=ja] :is(h1,h2,h3,h4,.sec-head,.index,.route-hero h3){font-family:"Yu Mincho","Hiragino Mincho ProN","Yu Gothic",serif;letter-spacing:.025em}
+html[lang=ja] .index a{font-size:12px}
+.bar-in{flex-wrap:wrap}
+@media(max-width:760px){.language-control{margin-left:auto}.language-control span{display:none}.language-control select{max-width:135px}.translation-note{font-size:12px;padding:8px 14px}}
+@media print{.language-control{display:none}.translation-note{font-size:10px}}

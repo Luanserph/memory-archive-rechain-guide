@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "Kingdom Key",
+    "category": "Ataque",
+    "file": "assets/kingdom-key-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/0/08/Kingdom_Key_%28card%29.png"
+  },
+  {
+    "name": "Three Wishes",
+    "category": "Ataque",
+    "file": "assets/three-wishes-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/4/49/Three_Wishes_%28card%29.png"
+  },
+  {
+    "name": "Crabclaw",
+    "category": "Ataque",
+    "file": "assets/crabclaw-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/2/23/Crabclaw_%28card%29.png"
+  },
+  {
+    "name": "Pumpkinhead",
+    "category": "Ataque",
+    "file": "assets/pumpkinhead-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/f/fb/Pumpkinhead_%28card%29.png"
+  },
+  {
+    "name": "Fairy Harp",
+    "category": "Ataque",
+    "file": "assets/fairy-harp-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/c/c9/Fairy_Harp_%28card%29.png"
+  },
+  {
+    "name": "Wishing Star",
+    "category": "Ataque",
+    "file": "assets/wishing-star-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/3/30/Wishing_Star_%28card%29.png"
+  },
+  {
+    "name": "Spellbinder",
+    "category": "Ataque",
+    "file": "assets/spellbinder-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/6/6c/Spellbinder_%28card%29.png"
+  },
+  {
+    "name": "Metal Chocobo",
+    "category": "Ataque",
+    "file": "assets/metal-chocobo-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/1/1e/Metal_Chocobo_%28card%29.png"
+  },
+  {
+    "name": "Olympia",
+    "category": "Ataque",
+    "file": "assets/olympia-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/7/75/Olympia_%28card%29.png"
+  },
+  {
+    "name": "Lionheart",
+    "category": "Ataque",
+    "file": "assets/lionheart-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/5/5b/Lionheart_%28card%29.png"
+  },
+  {
+    "name": "Lady Luck",
+    "category": "Ataque",
+    "file": "assets/lady-luck-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/c/c9/Lady_Luck_%28card%29.png"
+  },
+  {
+    "name": "Divine Rose",
+    "category": "Ataque",
+    "file": "assets/divine-rose-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/4/4a/Divine_Rose_%28card%29.png"
+  },
+  {
+    "name": "Oathkeeper",
+    "category": "Ataque",
+    "file": "assets/oathkeeper-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/e/e2/Oathkeeper_%28card%29.png"
+  },
+  {
+    "name": "Oblivion",
+    "category": "Ataque",
+    "file": "assets/oblivion-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/5/5d/Oblivion_%28card%29.png"
+  },
+  {
+    "name": "Ultima Weapon",
+    "category": "Ataque",
+    "file": "assets/ultima-weapon-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/f/f4/Ultima_Weapon_%28card%29.png"
+  },
+  {
+    "name": "Diamond Dust",
+    "category": "Ataque",
+    "file": "assets/diamond-dust-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/9/98/Diamond_Dust_%28card%29.png"
+  },
+  {
+    "name": "One-Winged Angel",
+    "category": "Ataque",
+    "file": "assets/one-winged-angel-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/9/93/One-Winged_Angel_%28card%29.png"
+  },
+  {
+    "name": "Star Seeker",
+    "category": "Ataque",
+    "file": "assets/star-seeker-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/3/35/Star_Seeker_%28card%29.png"
+  },
+  {
+    "name": "Monochrome",
+    "category": "Ataque",
+    "file": "assets/monochrome-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/2/22/Monochrome_%28card%29.png"
+  },
+  {
+    "name": "Follow the Wind",
+    "category": "Ataque",
+    "file": "assets/follow-the-wind-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/3/31/Follow_the_Wind_%28card%29.png"
+  },
+  {
+    "name": "Hidden Dragon",
+    "category": "Ataque",
+    "file": "assets/hidden-dragon-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/3/31/Hidden_Dragon_%28card%29.png"
+  },
+  {
+    "name": "Photon Debugger",
+    "category": "Ataque",
+    "file": "assets/photon-debugger-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/9/90/Photon_Debugger_%28card%29.png"
+  },
+  {
+    "name": "Bond of Flame",
+    "category": "Ataque",
+    "file": "assets/bond-of-flame-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/9/97/Bond_of_Flame_%28card%29.png"
+  },
+  {
+    "name": "Total Eclipse",
+    "category": "Ataque",
+    "file": "assets/total-eclipse-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/3/34/Total_Eclipse_%28card%29.png"
+  },
+  {
+    "name": "Midnight Roar",
+    "category": "Ataque",
+    "file": "assets/midnight-roar-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/1/15/Midnight_Roar_%28card%29.png"
+  },
+  {
+    "name": "Maverick Flare",
+    "category": "Ataque",
+    "file": "assets/maverick-flare-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/3/30/Maverick_Flare_%28card%29.png"
+  },
+  {
+    "name": "Two Become One",
+    "category": "Ataque",
+    "file": "assets/two-become-one-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/f/f2/Two_Become_One_%28card%29.png"
+  },
+  {
+    "name": "Keyblade",
+    "category": "Ataque",
+    "file": "assets/keyblade-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/7/7a/Keyblade_%28card%29.png"
+  },
+  {
+    "name": "Soul Eater",
+    "category": "Ataque",
+    "file": "assets/soul-eater-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/d/dd/Soul_Eater_%28card%29.png"
+  },
+  {
+    "name": "Fake Attack Card",
+    "category": "Ataque",
+    "file": "assets/fake-attack-card-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/d/d8/Fake_Attack_Card_%28card%29.png"
+  },
+  {
+    "name": "Cloud - A1",
+    "category": "Ataque",
+    "file": "assets/cloud-a1-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/6/61/Cloud_-_A1_%28card%29.png"
+  },
+  {
+    "name": "Cloud - A2",
+    "category": "Ataque",
+    "file": "assets/cloud-a2-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/3/30/Cloud_-_A2_%28card%29.png"
+  },
+  {
+    "name": "Hades - A",
+    "category": "Ataque",
+    "file": "assets/hades-a-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/e/e5/Hades_-_A_%28card%29.png"
+  },
+  {
+    "name": "Captain Hook - A1",
+    "category": "Ataque",
+    "file": "assets/captain-hook-a1-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/0/07/Captain_Hook_-_A1_%28card%29.png"
+  },
+  {
+    "name": "Captain Hook - A2",
+    "category": "Ataque",
+    "file": "assets/captain-hook-a2-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/9/9f/Captain_Hook_-_A2_%28card%29.png"
+  },
+  {
+    "name": "Captain Hook - A3",
+    "category": "Ataque",
+    "file": "assets/captain-hook-a3-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/a/ad/Captain_Hook_-_A3_%28card%29.png"
+  },
+  {
+    "name": "Axel - A1",
+    "category": "Ataque",
+    "file": "assets/axel-a1-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/5/57/Axel_-_A1_%28card%29.png"
+  },
+  {
+    "name": "Axel - A2",
+    "category": "Ataque",
+    "file": "assets/axel-a2-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/d/db/Axel_-_A2_%28card%29.png"
+  },
+  {
+    "name": "Larxene - A1",
+    "category": "Ataque",
+    "file": "assets/larxene-a1-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/d/d6/Larxene_-_A1_%28card%29.png"
+  },
+  {
+    "name": "Larxene - A2",
+    "category": "Ataque",
+    "file": "assets/larxene-a2-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/4/46/Larxene_-_A2_%28card%29.png"
+  },
+  {
+    "name": "Riku Replica - A1",
+    "category": "Ataque",
+    "file": "assets/riku-replica-a1-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/d/d4/Riku_Replica_-_A1_%28card%29.png"
+  },
+  {
+    "name": "Riku Replica - A2",
+    "category": "Ataque",
+    "file": "assets/riku-replica-a2-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/1/1c/Riku_Replica_-_A2_%28card%29.png"
+  },
+  {
+    "name": "Riku Replica - A3",
+    "category": "Ataque",
+    "file": "assets/riku-replica-a3-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/b/b3/Riku_Replica_-_A3_%28card%29.png"
+  },
+  {
+    "name": "Riku Replica - A4",
+    "category": "Ataque",
+    "file": "assets/riku-replica-a4-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/b/ba/Riku_Replica_-_A4_%28card%29.png"
+  },
+  {
+    "name": "Vexen - A",
+    "category": "Ataque",
+    "file": "assets/vexen-a-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/f/f0/Vexen_-_A_%28card%29.png"
+  },
+  {
+    "name": "Marluxia - A1",
+    "category": "Ataque",
+    "file": "assets/marluxia-a1-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/b/b0/Marluxia_-_A1_%28card%29.png"
+  },
+  {
+    "name": "Marluxia - A2",
+    "category": "Ataque",
+    "file": "assets/marluxia-a2-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/7/71/Marluxia_-_A2_%28card%29.png"
+  },
+  {
+    "name": "Lexaeus - A1",
+    "category": "Ataque",
+    "file": "assets/lexaeus-a1-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/2/22/Lexaeus_-_A1_%28card%29.png"
+  },
+  {
+    "name": "Lexaeus - A2",
+    "category": "Ataque",
+    "file": "assets/lexaeus-a2-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/f/f4/Lexaeus_-_A2_%28card%29.png"
+  },
+  {
+    "name": "Zexion - A",
+    "category": "Ataque",
+    "file": "assets/zexion-a-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/5/57/Zexion_-_A_%28card%29.png"
+  },
+  {
+    "name": "Ansem - A",
+    "category": "Ataque",
+    "file": "assets/ansem-a-card-png.png",
+    "source": "https://www.khwiki.com/Attack_Card",
+    "url": "https://kh.wiki.gallery/images/6/60/Ansem_-_A_%28card%29.png"
+  },
+  {
+    "name": "Fire",
+    "category": "Magia",
+    "file": "assets/fire-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/1/13/Fire_%28card%29.png"
+  },
+  {
+    "name": "Blizzard",
+    "category": "Magia",
+    "file": "assets/blizzard-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/e/e4/Blizzard_%28card%29.png"
+  },
+  {
+    "name": "Thunder",
+    "category": "Magia",
+    "file": "assets/thunder-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/7/7f/Thunder_%28card%29.png"
+  },
+  {
+    "name": "Cure",
+    "category": "Magia",
+    "file": "assets/cure-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/6/6b/Cure_%28card%29.png"
+  },
+  {
+    "name": "Gravity",
+    "category": "Magia",
+    "file": "assets/gravity-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/0/06/Gravity_%28card%29.png"
+  },
+  {
+    "name": "Stop",
+    "category": "Magia",
+    "file": "assets/stop-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/c/c5/Stop_%28card%29.png"
+  },
+  {
+    "name": "Aero",
+    "category": "Magia",
+    "file": "assets/aero-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/9/97/Aero_%28card%29.png"
+  },
+  {
+    "name": "Wind",
+    "category": "Magia",
+    "file": "assets/wind-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/4/4d/Wind_%28card%29.png"
+  },
+  {
+    "name": "Honey",
+    "category": "Magia",
+    "file": "assets/honey-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/2/22/Honey_%28card%29.png"
+  },
+  {
+    "name": "Hades - M",
+    "category": "Magia",
+    "file": "assets/hades-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/8/82/Hades_-_M_%28card%29.png"
+  },
+  {
+    "name": "Captain Hook - M",
+    "category": "Magia",
+    "file": "assets/captain-hook-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/c/cf/Captain_Hook_-_M_%28card%29.png"
+  },
+  {
+    "name": "Larxene - M",
+    "category": "Magia",
+    "file": "assets/larxene-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/f/f9/Larxene_-_M_%28card%29.png"
+  },
+  {
+    "name": "Vexen - M",
+    "category": "Magia",
+    "file": "assets/vexen-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/c/cc/Vexen_-_M_%28card%29.png"
+  },
+  {
+    "name": "Marluxia - M",
+    "category": "Magia",
+    "file": "assets/marluxia-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/4/4a/Marluxia_-_M_%28card%29.png"
+  },
+  {
+    "name": "Lexaeus - M",
+    "category": "Magia",
+    "file": "assets/lexaeus-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/4/48/Lexaeus_-_M_%28card%29.png"
+  },
+  {
+    "name": "Zexion - M",
+    "category": "Magia",
+    "file": "assets/zexion-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/1/17/Zexion_-_M_%28card%29.png"
+  },
+  {
+    "name": "Ansem - M",
+    "category": "Magia",
+    "file": "assets/ansem-m-card-png.png",
+    "source": "https://www.khwiki.com/Magic_Card",
+    "url": "https://kh.wiki.gallery/images/e/e0/Ansem_-_M_%28card%29.png"
+  },
+  {
+    "name": "Simba",
+    "category": "Invocação",
+    "file": "assets/simba-card-png.png",
+    "source": "https://www.khwiki.com/Summon_Card",
+    "url": "https://kh.wiki.gallery/images/6/6f/Simba_%28card%29.png"
+  },
+  {
+    "name": "Genie",
+    "category": "Invocação",
+    "file": "assets/genie-card-png.png",
+    "source": "https://www.khwiki.com/Summon_Card",
+    "url": "https://kh.wiki.gallery/images/e/e4/Genie_%28card%29.png"
+  },
+  {
+    "name": "Bambi",
+    "category": "Invocação",
+    "file": "assets/bambi-card-png.png",
+    "source": "https://www.khwiki.com/Summon_Card",
+    "url": "https://kh.wiki.gallery/images/8/88/Bambi_%28card%29.png"
+  },
+  {
+    "name": "Dumbo",
+    "category": "Invocação",
+    "file": "assets/dumbo-card-png.png",
+    "source": "https://www.khwiki.com/Summon_Card",
+    "url": "https://kh.wiki.gallery/images/2/23/Dumbo_%28card%29.png"
+  },
+  {
+    "name": "Tinker Bell",
+    "category": "Invocação",
+    "file": "assets/tinker-bell-card-png.png",
+    "source": "https://www.khwiki.com/Summon_Card",
+    "url": "https://kh.wiki.gallery/images/d/df/Tinker_Bell_%28card%29.png"
+  },
+  {
+    "name": "Mushu",
+    "category": "Invocação",
+    "file": "assets/mushu-card-png.png",
+    "source": "https://www.khwiki.com/Summon_Card",
+    "url": "https://kh.wiki.gallery/images/5/55/Mushu_%28card%29.png"
+  },
+  {
+    "name": "Cloud",
+    "category": "Invocação",
+    "file": "assets/cloud-card-png.png",
+    "source": "https://www.khwiki.com/Summon_Card",
+    "url": "https://kh.wiki.gallery/images/1/1a/Cloud_%28card%29.png"
+  },
+  {
+    "name": "Potion",
+    "category": "Item",
+    "file": "assets/potion-card-png.png",
+    "source": "https://www.khwiki.com/Item_Card",
+    "url": "https://kh.wiki.gallery/images/2/27/Potion_%28card%29.png"
+  },
+  {
+    "name": "Hi-Potion",
+    "category": "Item",
+    "file": "assets/hi-potion-card-png.png",
+    "source": "https://www.khwiki.com/Item_Card",
+    "url": "https://kh.wiki.gallery/images/b/b8/Hi-Potion_%28card%29.png"
+  },
+  {
+    "name": "Mega-Potion",
+    "category": "Item",
+    "file": "assets/mega-potion-card-png.png",
+    "source": "https://www.khwiki.com/Item_Card",
+    "url": "https://kh.wiki.gallery/images/1/1e/Mega-Potion_%28card%29.png"
+  },
+  {
+    "name": "Ether",
+    "category": "Item",
+    "file": "assets/ether-card-png.png",
+    "source": "https://www.khwiki.com/Item_Card",
+    "url": "https://kh.wiki.gallery/images/c/c1/Ether_%28card%29.png"
+  },
+  {
+    "name": "Mega-Ether",
+    "category": "Item",
+    "file": "assets/mega-ether-card-png.png",
+    "source": "https://www.khwiki.com/Item_Card",
+    "url": "https://kh.wiki.gallery/images/3/34/Mega-Ether_%28card%29.png"
+  },
+  {
+    "name": "Elixir",
+    "category": "Item",
+    "file": "assets/elixir-card-png.png",
+    "source": "https://www.khwiki.com/Item_Card",
+    "url": "https://kh.wiki.gallery/images/7/7b/Elixir_%28card%29.png"
+  },
+  {
+    "name": "Megalixir",
+    "category": "Item",
+    "file": "assets/megalixir-card-png.png",
+    "source": "https://www.khwiki.com/Item_Card",
+    "url": "https://kh.wiki.gallery/images/a/a2/Megalixir_%28card%29.png"
+  },
+  {
+    "name": "Shadow",
+    "category": "Inimigo",
+    "file": "assets/shadow-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/2/2f/Shadow_%28card%29.png"
+  },
+  {
+    "name": "Soldier",
+    "category": "Inimigo",
+    "file": "assets/soldier-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/a/a1/Soldier_%28card%29.png"
+  },
+  {
+    "name": "Powerwild",
+    "category": "Inimigo",
+    "file": "assets/powerwild-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/d/d1/Powerwild_%28card%29.png"
+  },
+  {
+    "name": "Bouncywild",
+    "category": "Inimigo",
+    "file": "assets/bouncywild-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/3/33/Bouncywild_%28card%29.png"
+  },
+  {
+    "name": "Large Body",
+    "category": "Inimigo",
+    "file": "assets/large-body-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/1/11/Large_Body_%28card%29.png"
+  },
+  {
+    "name": "Fat Bandit",
+    "category": "Inimigo",
+    "file": "assets/fat-bandit-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/2/2c/Fat_Bandit_%28card%29.png"
+  },
+  {
+    "name": "Sea Neon",
+    "category": "Inimigo",
+    "file": "assets/sea-neon-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/1/1b/Sea_Neon_%28card%29.png"
+  },
+  {
+    "name": "Bandit",
+    "category": "Inimigo",
+    "file": "assets/bandit-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/c/ce/Bandit_%28card%29.png"
+  },
+  {
+    "name": "Pirate",
+    "category": "Inimigo",
+    "file": "assets/pirate-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/b/b0/Pirate_%28card%29.png"
+  },
+  {
+    "name": "Red Nocturne",
+    "category": "Inimigo",
+    "file": "assets/red-nocturne-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/7/7b/Red_Nocturne_%28card%29.png"
+  },
+  {
+    "name": "Blue Rhapsody",
+    "category": "Inimigo",
+    "file": "assets/blue-rhapsody-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/7/73/Blue_Rhapsody_%28card%29.png"
+  },
+  {
+    "name": "Yellow Opera",
+    "category": "Inimigo",
+    "file": "assets/yellow-opera-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/b/b5/Yellow_Opera_%28card%29.png"
+  },
+  {
+    "name": "Green Requiem",
+    "category": "Inimigo",
+    "file": "assets/green-requiem-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/c/c2/Green_Requiem_%28card%29.png"
+  },
+  {
+    "name": "Wizard",
+    "category": "Inimigo",
+    "file": "assets/wizard-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/98/Wizard_%28card%29.png"
+  },
+  {
+    "name": "Air Soldier",
+    "category": "Inimigo",
+    "file": "assets/air-soldier-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/9a/Air_Soldier_%28card%29.png"
+  },
+  {
+    "name": "Barrel Spider",
+    "category": "Inimigo",
+    "file": "assets/barrel-spider-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/8/82/Barrel_Spider_%28card%29.png"
+  },
+  {
+    "name": "Wight Knight",
+    "category": "Inimigo",
+    "file": "assets/wight-knight-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/f/f3/Wight_Knight_%28card%29.png"
+  },
+  {
+    "name": "Air Pirate",
+    "category": "Inimigo",
+    "file": "assets/air-pirate-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/d/d5/Air_Pirate_%28card%29.png"
+  },
+  {
+    "name": "Gargoyle",
+    "category": "Inimigo",
+    "file": "assets/gargoyle-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/9a/Gargoyle_%28card%29.png"
+  },
+  {
+    "name": "Search Ghost",
+    "category": "Inimigo",
+    "file": "assets/search-ghost-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/4/4d/Search_Ghost_%28card%29.png"
+  },
+  {
+    "name": "Aquatank",
+    "category": "Inimigo",
+    "file": "assets/aquatank-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/0/00/Aquatank_%28card%29.png"
+  },
+  {
+    "name": "Screwdiver",
+    "category": "Inimigo",
+    "file": "assets/screwdiver-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/7/76/Screwdiver_%28card%29.png"
+  },
+  {
+    "name": "Wyvern",
+    "category": "Inimigo",
+    "file": "assets/wyvern-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/5/5d/Wyvern_%28card%29.png"
+  },
+  {
+    "name": "Defender",
+    "category": "Inimigo",
+    "file": "assets/defender-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/2/21/Defender_%28card%29.png"
+  },
+  {
+    "name": "White Mushroom",
+    "category": "Inimigo",
+    "file": "assets/white-mushroom-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/c/cd/White_Mushroom_%28card%29.png"
+  },
+  {
+    "name": "Black Fungus",
+    "category": "Inimigo",
+    "file": "assets/black-fungus-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/8/82/Black_Fungus_%28card%29.png"
+  },
+  {
+    "name": "Creeper Plant",
+    "category": "Inimigo",
+    "file": "assets/creeper-plant-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/5/56/Creeper_Plant_%28card%29.png"
+  },
+  {
+    "name": "Tornado Step",
+    "category": "Inimigo",
+    "file": "assets/tornado-step-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/e/e3/Tornado_Step_%28card%29.png"
+  },
+  {
+    "name": "Crescendo",
+    "category": "Inimigo",
+    "file": "assets/crescendo-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/8/82/Crescendo_%28card%29.png"
+  },
+  {
+    "name": "Neoshadow",
+    "category": "Inimigo",
+    "file": "assets/neoshadow-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/99/Neoshadow_%28card%29.png"
+  },
+  {
+    "name": "Guard Armor",
+    "category": "Inimigo",
+    "file": "assets/guard-armor-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/3/39/Guard_Armor_%28card%29.png"
+  },
+  {
+    "name": "Hades",
+    "category": "Inimigo",
+    "file": "assets/hades-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/0/09/Hades_%28card%29.png"
+  },
+  {
+    "name": "Trickmaster",
+    "category": "Inimigo",
+    "file": "assets/trickmaster-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/4/4e/Trickmaster_%28card%29.png"
+  },
+  {
+    "name": "Jafar (Genie)",
+    "category": "Inimigo",
+    "file": "assets/jafar-genie-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/8/8d/Jafar_%28Genie%29_%28card%29.png"
+  },
+  {
+    "name": "Ursula",
+    "category": "Inimigo",
+    "file": "assets/ursula-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/e/e4/Ursula_%28card%29.png"
+  },
+  {
+    "name": "Oogie Boogie",
+    "category": "Inimigo",
+    "file": "assets/oogie-boogie-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/b/b8/Oogie_Boogie_%28card%29.png"
+  },
+  {
+    "name": "Parasite Cage",
+    "category": "Inimigo",
+    "file": "assets/parasite-cage-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/9c/Parasite_Cage_%28card%29.png"
+  },
+  {
+    "name": "Captain Hook",
+    "category": "Inimigo",
+    "file": "assets/captain-hook-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/3/3f/Captain_Hook_%28card%29.png"
+  },
+  {
+    "name": "Maleficent (Dragon)",
+    "category": "Inimigo",
+    "file": "assets/maleficent-dragon-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/8/8a/Maleficent_%28Dragon%29_%28card%29.png"
+  },
+  {
+    "name": "Darkside",
+    "category": "Inimigo",
+    "file": "assets/darkside-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/a/ae/Darkside_%28card%29.png"
+  },
+  {
+    "name": "Riku Replica",
+    "category": "Inimigo",
+    "file": "assets/riku-replica-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/f/f1/Riku_Replica_%28card%29.png"
+  },
+  {
+    "name": "Card Soldier, Heart",
+    "category": "Inimigo",
+    "file": "assets/card-soldier-heart-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/e/e3/Card_Soldier%2C_Heart_%28card%29.png"
+  },
+  {
+    "name": "Ansem",
+    "category": "Inimigo",
+    "file": "assets/ansem-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/7/7d/Ansem_%28card%29.png"
+  },
+  {
+    "name": "Xemnas",
+    "category": "Inimigo",
+    "file": "assets/xemnas-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/95/Xemnas_%28card%29.png"
+  },
+  {
+    "name": "Xigbar",
+    "category": "Inimigo",
+    "file": "assets/xigbar-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/f/f1/Xigbar_%28card%29.png"
+  },
+  {
+    "name": "Xaldin",
+    "category": "Inimigo",
+    "file": "assets/xaldin-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/7/74/Xaldin_%28card%29.png"
+  },
+  {
+    "name": "Vexen",
+    "category": "Inimigo",
+    "file": "assets/vexen-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/3/3f/Vexen_%28card%29.png"
+  },
+  {
+    "name": "Lexaeus",
+    "category": "Inimigo",
+    "file": "assets/lexaeus-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/97/Lexaeus_%28card%29.png"
+  },
+  {
+    "name": "Zexion",
+    "category": "Inimigo",
+    "file": "assets/zexion-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/f/fc/Zexion_%28card%29.png"
+  },
+  {
+    "name": "Saïx",
+    "category": "Inimigo",
+    "file": "assets/sa-x-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/0/04/Sa%C3%AFx_%28card%29.png"
+  },
+  {
+    "name": "Axel",
+    "category": "Inimigo",
+    "file": "assets/axel-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/e/e8/Axel_%28card%29.png"
+  },
+  {
+    "name": "Demyx",
+    "category": "Inimigo",
+    "file": "assets/demyx-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/1/16/Demyx_%28card%29.png"
+  },
+  {
+    "name": "Luxord",
+    "category": "Inimigo",
+    "file": "assets/luxord-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/7/7f/Luxord_%28card%29.png"
+  },
+  {
+    "name": "Marluxia",
+    "category": "Inimigo",
+    "file": "assets/marluxia-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/9/96/Marluxia_%28card%29.png"
+  },
+  {
+    "name": "Larxene",
+    "category": "Inimigo",
+    "file": "assets/larxene-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/3/3f/Larxene_%28card%29.png"
+  },
+  {
+    "name": "Roxas",
+    "category": "Inimigo",
+    "file": "assets/roxas-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/6/6a/Roxas_%28card%29.png"
+  },
+  {
+    "name": "Darkball",
+    "category": "Inimigo",
+    "file": "assets/darkball-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/3/3f/Darkball_%28card%29.png"
+  },
+  {
+    "name": "Honey Bee",
+    "category": "Inimigo",
+    "file": "assets/honey-bee-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/5/5e/Honey_Bee_%28card%29.png"
+  },
+  {
+    "name": "Card Soldier, Spade",
+    "category": "Inimigo",
+    "file": "assets/card-soldier-spade-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/2/2e/Card_Soldier%2C_Spade_%28card%29.png"
+  },
+  {
+    "name": "Marluxia (Second Form)",
+    "category": "Inimigo",
+    "file": "assets/marluxia-second-form-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/5/57/Marluxia_%28Second_Form%29_%28card%29.png"
+  },
+  {
+    "name": "Marluxia (Third Form)",
+    "category": "Inimigo",
+    "file": "assets/marluxia-third-form-card-png.png",
+    "source": "https://www.khwiki.com/Enemy_Card",
+    "url": "https://kh.wiki.gallery/images/c/c5/Marluxia_%28Third_Form%29_%28card%29.png"
+  },
+  {
+    "name": "Tranquil Darkness",
+    "category": "Mapa",
+    "file": "assets/tranquil-darkness-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/c/c3/Tranquil_Darkness_%28card%29.png"
+  },
+  {
+    "name": "Teeming Darkness",
+    "category": "Mapa",
+    "file": "assets/teeming-darkness-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/2/25/Teeming_Darkness_%28card%29.png"
+  },
+  {
+    "name": "Feeble Darkness",
+    "category": "Mapa",
+    "file": "assets/feeble-darkness-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/2/27/Feeble_Darkness_%28card%29.png"
+  },
+  {
+    "name": "Almighty Darkness",
+    "category": "Mapa",
+    "file": "assets/almighty-darkness-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/1/1c/Almighty_Darkness_%28card%29.png"
+  },
+  {
+    "name": "Sleeping Darkness",
+    "category": "Mapa",
+    "file": "assets/sleeping-darkness-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/5/5f/Sleeping_Darkness_%28card%29.png"
+  },
+  {
+    "name": "Looming Darkness",
+    "category": "Mapa",
+    "file": "assets/looming-darkness-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/0/0b/Looming_Darkness_%28card%29.png"
+  },
+  {
+    "name": "Premium Room",
+    "category": "Mapa",
+    "file": "assets/premium-room-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/e/eb/Premium_Room_%28card%29.png"
+  },
+  {
+    "name": "White Room",
+    "category": "Mapa",
+    "file": "assets/white-room-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/b/b9/White_Room_%28card%29.png"
+  },
+  {
+    "name": "Black Room",
+    "category": "Mapa",
+    "file": "assets/black-room-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/4/4b/Black_Room_%28card%29.png"
+  },
+  {
+    "name": "Bottomless Darkness",
+    "category": "Mapa",
+    "file": "assets/bottomless-darkness-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/6/67/Bottomless_Darkness_%28card%29.png"
+  },
+  {
+    "name": "Roulette Room",
+    "category": "Mapa",
+    "file": "assets/roulette-room-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/0/0b/Roulette_Room_%28card%29.png"
+  },
+  {
+    "name": "Martial Waking",
+    "category": "Mapa",
+    "file": "assets/martial-waking-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/b/b7/Martial_Waking_%28card%29.png"
+  },
+  {
+    "name": "Sorcerous Waking",
+    "category": "Mapa",
+    "file": "assets/sorcerous-waking-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/f/f2/Sorcerous_Waking_%28card%29.png"
+  },
+  {
+    "name": "Alchemic Waking",
+    "category": "Mapa",
+    "file": "assets/alchemic-waking-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/e/ef/Alchemic_Waking_%28card%29.png"
+  },
+  {
+    "name": "Meeting Ground",
+    "category": "Mapa",
+    "file": "assets/meeting-ground-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/6/67/Meeting_Ground_%28card%29.png"
+  },
+  {
+    "name": "Stagnant Space",
+    "category": "Mapa",
+    "file": "assets/stagnant-space-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/c/c3/Stagnant_Space_%28card%29.png"
+  },
+  {
+    "name": "Strong Initiative",
+    "category": "Mapa",
+    "file": "assets/strong-initiative-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/c/ce/Strong_Initiative_%28card%29.png"
+  },
+  {
+    "name": "Lasting Daze",
+    "category": "Mapa",
+    "file": "assets/lasting-daze-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/8/84/Lasting_Daze_%28card%29.png"
+  },
+  {
+    "name": "Calm Bounty",
+    "category": "Mapa",
+    "file": "assets/calm-bounty-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/7/78/Calm_Bounty_%28card%29.png"
+  },
+  {
+    "name": "Guarded Trove",
+    "category": "Mapa",
+    "file": "assets/guarded-trove-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/e/e0/Guarded_Trove_%28card%29.png"
+  },
+  {
+    "name": "False Bounty",
+    "category": "Mapa",
+    "file": "assets/false-bounty-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/8/83/False_Bounty_%28card%29.png"
+  },
+  {
+    "name": "Moment's Reprieve",
+    "category": "Mapa",
+    "file": "assets/moment-s-reprieve-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/5/58/Moment%27s_Reprieve_%28card%29.png"
+  },
+  {
+    "name": "Mingling Worlds",
+    "category": "Mapa",
+    "file": "assets/mingling-worlds-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/2/21/Mingling_Worlds_%28card%29.png"
+  },
+  {
+    "name": "Moogle Room",
+    "category": "Mapa",
+    "file": "assets/moogle-room-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/4/40/Moogle_Room_%28card%29.png"
+  },
+  {
+    "name": "Key to Rewards",
+    "category": "Mapa",
+    "file": "assets/key-to-rewards-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/e/ec/Key_to_Rewards_%28card%29.png"
+  },
+  {
+    "name": "Key of Beginnings",
+    "category": "Mapa",
+    "file": "assets/key-of-beginnings-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/c/ce/Key_of_Beginnings_%28card%29.png"
+  },
+  {
+    "name": "Key of Guidance",
+    "category": "Mapa",
+    "file": "assets/key-of-guidance-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/3/36/Key_of_Guidance_%28card%29.png"
+  },
+  {
+    "name": "Key to Truth",
+    "category": "Mapa",
+    "file": "assets/key-to-truth-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/c/c2/Key_to_Truth_%28card%29.png"
+  },
+  {
+    "name": "Random Joker",
+    "category": "Mapa",
+    "file": "assets/random-joker-card-png.png",
+    "source": "https://www.khwiki.com/Map_Card",
+    "url": "https://kh.wiki.gallery/images/7/77/Random_Joker_%28card%29.png"
+  },
+  {
+    "name": "Donald Duck",
+    "category": "Amigo",
+    "file": "assets/donald-duck-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/f/fb/Donald_Duck_%28card%29.png"
+  },
+  {
+    "name": "Donald Duck (Halloween Town)",
+    "category": "Amigo",
+    "file": "assets/donald-duck-halloween-town-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/c/ca/Donald_Duck_%28Halloween_Town%29_%28card%29.png"
+  },
+  {
+    "name": "Goofy",
+    "category": "Amigo",
+    "file": "assets/goofy-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/5/50/Goofy_%28card%29.png"
+  },
+  {
+    "name": "Goofy (Halloween Town)",
+    "category": "Amigo",
+    "file": "assets/goofy-halloween-town-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/8/87/Goofy_%28Halloween_Town%29_%28card%29.png"
+  },
+  {
+    "name": "Aladdin",
+    "category": "Amigo",
+    "file": "assets/aladdin-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/6/6e/Aladdin_%28card%29.png"
+  },
+  {
+    "name": "Jack",
+    "category": "Amigo",
+    "file": "assets/jack-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/6/6d/Jack_%28card%29.png"
+  },
+  {
+    "name": "Ariel",
+    "category": "Amigo",
+    "file": "assets/ariel-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/7/74/Ariel_%28card%29.png"
+  },
+  {
+    "name": "Peter Pan",
+    "category": "Amigo",
+    "file": "assets/peter-pan-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/4/4e/Peter_Pan_%28card%29.png"
+  },
+  {
+    "name": "Beast",
+    "category": "Amigo",
+    "file": "assets/beast-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/5/53/Beast_%28card%29.png"
+  },
+  {
+    "name": "Pluto",
+    "category": "Amigo",
+    "file": "assets/pluto-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/1/1d/Pluto_%28card%29.png"
+  },
+  {
+    "name": "The King",
+    "category": "Amigo",
+    "file": "assets/the-king-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/f/ff/The_King_%28card%29.png"
+  },
+  {
+    "name": "The King (Halloween Town)",
+    "category": "Amigo",
+    "file": "assets/the-king-halloween-town-card-png.png",
+    "source": "https://www.khwiki.com/Friend_Card",
+    "url": "https://kh.wiki.gallery/images/0/03/The_King_%28Halloween_Town%29_%28card%29.png"
+  },
+  {
+    "name": "Traverse Town",
+    "category": "Mundo",
+    "file": "assets/traverse-town-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/a/a2/Traverse_Town_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Wonderland",
+    "category": "Mundo",
+    "file": "assets/wonderland-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/5/55/Wonderland_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Olympus Coliseum",
+    "category": "Mundo",
+    "file": "assets/olympus-coliseum-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/7/77/Olympus_Coliseum_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Agrabah",
+    "category": "Mundo",
+    "file": "assets/agrabah-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/5/59/Agrabah_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Halloween Town",
+    "category": "Mundo",
+    "file": "assets/halloween-town-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/c/c4/Halloween_Town_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Monstro",
+    "category": "Mundo",
+    "file": "assets/monstro-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/8/82/Monstro_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Atlantica",
+    "category": "Mundo",
+    "file": "assets/atlantica-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/d/dc/Atlantica_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Neverland",
+    "category": "Mundo",
+    "file": "assets/neverland-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/1/15/Neverland_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Hollow Bastion",
+    "category": "Mundo",
+    "file": "assets/hollow-bastion-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/e/e3/Hollow_Bastion_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "100 Acre Wood",
+    "category": "Mundo",
+    "file": "assets/100-acre-wood-card-2-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/9/9d/100_Acre_Wood_%28Card%29_2_KHRECOM.png"
+  },
+  {
+    "name": "Twilight Town",
+    "category": "Mundo",
+    "file": "assets/twilight-town-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/9/94/Twilight_Town_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Destiny Islands",
+    "category": "Mundo",
+    "file": "assets/destiny-islands-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/4/4f/Destiny_Islands_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Castle Oblivion",
+    "category": "Mundo",
+    "file": "assets/castle-oblivion-card-khrecom-png.png",
+    "source": "https://www.khwiki.com/World_Card",
+    "url": "https://kh.wiki.gallery/images/4/45/Castle_Oblivion_%28Card%29_KHRECOM.png"
+  },
+  {
+    "name": "Gimmick Card",
+    "category": "Gimmick",
+    "file": "assets/gimmick-card-card-png.png",
+    "source": "https://www.khwiki.com/Gimmick_Card",
+    "url": "https://kh.wiki.gallery/images/8/8d/Gimmick_Card_%28card%29.png"
+  },
+  {
+    "name": "Castle Oblivion Artwork.png",
+    "category": "Arte",
+    "file": "assets/castle-oblivion-artwork-png.png",
+    "source": "https://www.khwiki.com/Gallery:Castle_Oblivion",
+    "url": "https://kh.wiki.gallery/images/8/82/Castle_Oblivion_Artwork.png"
+  },
+  {
+    "name": "Castle Oblivion Room (Art).png",
+    "category": "Arte",
+    "file": "assets/castle-oblivion-room-art-png.png",
+    "source": "https://www.khwiki.com/Gallery:Castle_Oblivion",
+    "url": "https://kh.wiki.gallery/images/b/bb/Castle_Oblivion_Room_%28Art%29.png"
+  },
+  {
+    "name": "Kingdom Hearts ReChain of Memories Logo KHRECOM.png",
+    "category": "Arte",
+    "file": "assets/kingdom-hearts-rechain-of-memories-logo-khrecom-png.png",
+    "source": "https://www.khwiki.com/Kingdom_Hearts_Re:Chain_of_Memories",
+    "url": "https://kh.wiki.gallery/images/4/44/Kingdom_Hearts_ReChain_of_Memories_Logo_KHRECOM.png"
+  },
+  {
+    "name": "Traverse Town 01 KHRECOM.png",
+    "category": "Arte",
+    "file": "assets/traverse-town-01-khrecom-png.png",
+    "source": "https://www.khwiki.com/Kingdom_Hearts_Re:Chain_of_Memories",
+    "url": "https://kh.wiki.gallery/images/e/ec/Traverse_Town_01_KHRECOM.png"
+  }
+]
