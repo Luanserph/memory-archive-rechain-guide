@@ -4,6 +4,8 @@ Guia interativo de fã para completar **Kingdom Hearts Re:Chain of Memories** na
 
 Disponível em **Português (Brasil), English, Español e 日本語**. O site funciona apenas com HTML, CSS e JavaScript, salva o progresso no navegador e não exige cadastro.
 
+**[Abrir o guia online](https://memory-archive-rechain-guide.vercel.app/)**
+
 ## Recursos
 
 - Rota interativa dos 13 andares de Sora e dos 12 de Riku.
