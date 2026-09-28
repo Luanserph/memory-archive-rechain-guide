@@ -21,15 +21,6 @@ Disponível em **Português (Brasil), English, Español e 日本語**. O site fu
 
 Baixe o repositório e abra `index.html`. As imagens, fontes e traduções já acompanham o projeto.
 
-## Publicar com GitHub e Vercel
-
-1. Crie um repositório no GitHub e envie o conteúdo desta pasta. `index.html` deve ficar na raiz, junto de `vercel.json`, `assets` e `locales`.
-2. Na Vercel, escolha **Add New → Project** e importe esse repositório.
-3. Use **Framework Preset: Other**, sem comando de build. O diretório de saída é `.`. O arquivo `vercel.json` já configura isso.
-4. Clique em **Deploy**. Compartilhe o endereço de produção fornecido pela Vercel. Novos commits no repositório conectado geram atualizações.
-
-Documentação: https://vercel.com/docs/git e https://vercel.com/docs/builds/configure-a-build
-
 ## Idiomas e progresso
 
 O seletor no topo oferece Português (Brasil), English, Español e 日本語. Traduções automáticas geradas localmente com modelos Argos Translate/CTranslate2, com ajustes editoriais de interface; a revisão linguística integral está pendente. Os arquivos de tradução acompanham o site. Não há chamadas a serviços de tradução durante o uso.
