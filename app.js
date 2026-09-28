@@ -34,7 +34,7 @@
  $('#asset-count').textContent=cards.length+' imagens';
  window.GUIDE_CARDS={open(name){const a=find(name);if(a)inspect(a);}};
  const icons=['⌂','↗','◇','＋','⚔','▣','♧','⌘','♜','◇','♧','ϟ','⚔','♟','♧','❀','☾','↻','!','♛'];
- $$('.index a:not(.library-brand)').forEach((a,i)=>{const ic=document.createElement('span');ic.className='nav-icon';ic.textContent=icons[i]||'◇';ic.ariaHidden='true';a.prepend(ic);});
+ $$('.nav-directory a').forEach((a,i)=>{const ic=document.createElement('span');ic.className='nav-icon';ic.textContent=icons[i]||'◇';ic.ariaHidden='true';a.prepend(ic);});
  const menu=$('.menu-toggle');menu.onclick=()=>{const open=document.body.classList.toggle('nav-open');menu.setAttribute('aria-expanded',open);};
  document.addEventListener('click',e=>{if(document.body.classList.contains('nav-open')&&!e.target.closest('.index,.menu-toggle')){document.body.classList.remove('nav-open');menu.setAttribute('aria-expanded','false');}});
  function go(id){const i=window.PAGER.sections.findIndex(s=>s.id===id);if(i>=0)window.PAGER.show(i);document.body.classList.remove('nav-open');menu.setAttribute('aria-expanded','false');$('#search-results').hidden=true;$('#q').value='';}
